@@ -177,12 +177,12 @@ img{display:block;
 {
 	0%{transform:translateX(0);}
 	100%{transform:translateX(100vw);}
-}*/		 
+}	 
 .moving-text
 {
 	white-space:nowrap;
 	animation:moveText 5s linear infinite;
-}
+}*/
 
 form
 {
