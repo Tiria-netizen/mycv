@@ -172,12 +172,12 @@ img{display:block;
          line-height:40px;		
 		 
 		 }  
-		 
+/*		 
 @keyframes moveText
 {
 	0%{transform:translateX(0);}
 	100%{transform:translateX(100vw);}
-}		 
+}*/		 
 .moving-text
 {
 	white-space:nowrap;
