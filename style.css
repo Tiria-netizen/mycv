@@ -1,5 +1,5 @@
 body{
-	font-family:Ariel,sans-serif;
+    font-family:Ariel,sans-serif;
     background-color:#f4f4f4;
     margin:0;
     padding:5px;
@@ -163,7 +163,7 @@ img{display:block;
 	  }
 	footer{text-align:center;
          padding:4px;
-		 ,/*background-color:black;*/
+		 background-color:black;
 		 color:green;
 		 position:auto;
 		 width:100%;
@@ -248,7 +248,7 @@ textarea
 }
 h1{color:black;}
 
-p{padding:2px;
-   margin:2px;
-  background-color:white;
+p{padding:4px;
+   margin:3px;
+  
  }
