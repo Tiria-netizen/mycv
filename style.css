@@ -247,6 +247,7 @@ textarea
 }
 h1{color:black;}
 
-p{padding:5px;
-   
+p{padding:2px;
+   margin:2px;
+  background-color:white;
  }
