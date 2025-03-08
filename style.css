@@ -11,8 +11,12 @@ body{
 		color:blue;
 		line-height:1.6;
 	}
-ol,ul{padding-left:20px;}
-li{mardin-left:10px;}
+ol
+{padding-left:40px;}
+li{     display:flex;
+	gap:10px;
+        align-items:center;   
+}
 	.about-text{
 		        line-height:1.6;	
 			text-align:center;
